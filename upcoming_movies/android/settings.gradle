@@ -1,0 +1,3 @@
+rootProject.name = 'upcoming_movies'
+
+include ':app'
